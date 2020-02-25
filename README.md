@@ -3,7 +3,7 @@
 My personal Theme for OC
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Images/screenshot.png)
 
 Icons for most systems plus 3 backgrounds variations
 
