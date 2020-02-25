@@ -1,8 +1,9 @@
 # OpenCoreThemes
 
 My personal Theme for OC
-![Screenshot](OpenCoreThemes
-/screenshot.png)
+
+
+![Screenshot](screenshot.png)
 
 Icons for most systems plus 3 backgrounds variations
 
