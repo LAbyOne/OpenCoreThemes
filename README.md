@@ -5,12 +5,12 @@ My personal Theme for OC
 # Opencore
 ![Screenshot](Opencore/screenshot.png)
 
+Into Opencore background folder contains 3 colors variations
+
 # Circle
 ![Screenshot](Circles/screenshot.png)
 
 Icons for most systems 
-
-background folder contains 3 colors variations
 
 # Notice 
 for some extra icons to show up as they are into the folder
