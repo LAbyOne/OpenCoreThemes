@@ -9,6 +9,7 @@ Into Opencore background folder contains 3 colors variations
 
 # Circle
 ![Screenshot](Circles/screenshot.png) 
+![Screenshot](Circles/screenshot1.png)
 
 # Notice 
 Icons for most systems
