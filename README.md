@@ -2,10 +2,10 @@
 
 My personal Theme for OC
 
-#Opencore
+# Opencore
 ![Screenshot](Opencore/screenshot.png)
 
-#Circle
+# Circle
 ![Screenshot](Circles/screenshot.png)
 
 Icons for most systems 
