@@ -6,7 +6,7 @@ My personal Theme for OC
 ![Screenshot](Opencore/screenshot.png)
 
 #Circle
-![Screenshot](Circle/screenshot.png)
+![Screenshot](Circles/screenshot.png)
 
 Icons for most systems 
 
