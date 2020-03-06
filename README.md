@@ -7,15 +7,6 @@ My personal Theme for OC
 
 Into Opencore background folder contains 3 colors variations
 
-# Circles
-![Screenshot](Circles/screenshot.png) 
-# 
-![Screenshot](Circles/screenshot1.png)
-# 
-![Screenshot](Circles/screenshot2.png)
-# 
-![Screenshot](Circles/screenshot0.png)
-
 # Notice 
 Icons for most systems, 
 for some extra icons, to show up as they are into the folder, 
