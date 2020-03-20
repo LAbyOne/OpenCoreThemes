@@ -22,6 +22,13 @@ Into Opencore background folder contains 3 colors variations
 ### Red
 ![Screenshot](PitchBlack/Red/ScreenShot.png)
 
+### Ochre
+![Screenshot](PitchBlack/Ochre/ScreenShot.png)
+
+### Acqua
+![Screenshot](PitchBlack/Acqua/ScreenShot.png)
+
+
 # Notice 
 Icons for most systems, 
 for some extra icons, to show up as they are into the folder, 
