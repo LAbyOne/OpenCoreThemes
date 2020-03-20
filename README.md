@@ -13,13 +13,14 @@ Into Opencore background folder contains 3 colors variations
 ### Black
 ![Screenshot](PitchBlack/Black/ScreenShot.png)
 
+### DarkGray
+![Screenshot](PitchBlack/DarkGray/ScreenShot.png)
+
 ### NotWhite
 ![Screenshot](PitchBlack/NotWhite/ScreenShot.png)
 
 ### Red
 ![Screenshot](PitchBlack/Red/ScreenShot.png)
-
-and more backgrounds inside Bgs folder
 
 # Notice 
 Icons for most systems, 
