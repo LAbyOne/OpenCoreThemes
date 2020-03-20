@@ -7,18 +7,19 @@ My personal Theme for OC
 
 Into Opencore background folder contains 3 colors variations
 
-# Pitch Black
+# Pitch Black 
+3 variations
 
 ### Black
-![Screenshot](Pitch Black/Black/ScreenShot.png)
+![Screenshot](PitchBlack/Black/ScreenShot.png)
 
 ### NotWhite
-![Screenshot](Pitch Black/NotWhite/ScreenShot.png)
+![Screenshot](PitchBlack/NotWhite/ScreenShot.png)
 
 ### Red
-![Screenshot](Pitch Black/Red/ScreenShot.png)
+![Screenshot](PitchBlack/Red/ScreenShot.png)
 
-3 variations and more backgrounds inside
+and more backgrounds inside Bgs folder
 
 # Notice 
 Icons for most systems, 
