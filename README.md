@@ -21,7 +21,7 @@ Into Opencore background folder contains 3 colors variations
 
 there's a v2 version of this one in download section wich actually has a darker background as all others
 here'a a preview
-![img](PitchBlack/NotWhite/background.png)
+![background](PitchBlack/NotWhite/background.png)
 
 ### Red
 ![Screenshot](PitchBlack/Red/ScreenShot.png)
