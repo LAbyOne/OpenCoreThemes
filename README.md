@@ -19,7 +19,7 @@ Into Opencore background folder contains 3 colors variations
 ### NotWhite
 ![Screenshot](PitchBlack/NotWhite/ScreenShot.png)
 
-there's a v2 version of this one in download section wich actually has a darker background as all others
+there's a v2 version of this one in download section wich actually has a darker background :
 here'a a preview
 ![Screenshot](PitchBlack/NotWhite/Icons/background.png)
 
