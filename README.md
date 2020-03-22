@@ -28,6 +28,9 @@ Into Opencore background folder contains 3 colors variations
 ### Acqua
 ![Screenshot](PitchBlack/Acqua/ScreenShot.png)
 # 
+### Velvet
+![Screenshot](PitchBlack/Velvet/ScreenShot.png)
+# 
 
 # Notice 
 Icons for most systems, 
