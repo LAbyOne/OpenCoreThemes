@@ -8,7 +8,6 @@ Into Opencore background folder contains 3 colors variations
 ![Screenshot](Opencore/screenshot.png)
 # 
 # SilverSex
-#
 This contains also 1 background variation (gray)
 #
 ![Screenshot](SilverSex/ScreenShot.png)
