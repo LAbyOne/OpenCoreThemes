@@ -7,10 +7,23 @@ Into Opencore background folder contains 3 colors variations
 #
 ![Screenshot](Opencore/screenshot.png)
 # 
-# SilverSex
-This contains also 1 background variation (gray)
+# Silver
+This contains 4 variations
 #
-![Screenshot](SilverSex/ScreenShot.png)
+### Silver Light
+![Screenshot](SilverLight/ScreenShot.png)
+#
+### Silver Dark
+![Screenshot](SilverDark/ScreenShot.png)
+# 
+### Silver Violet
+![Screenshot](SilverViolet/ScreenShot.png)
+#
+### SilverSexy
+![Screenshot](SilverSexy/ScreenShot.png)
+#
+### Black
+
 #  
 # Pitch Black 
 3 variations
