@@ -23,7 +23,6 @@ This contains 4 variations
 ![Screenshot](SilverSexy/ScreenShot.png)
 #
 ### Black
-
 #  
 # Pitch Black 
 3 variations
