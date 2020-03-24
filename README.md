@@ -11,16 +11,16 @@ Into Opencore background folder contains 3 colors variations
 This contains 4 variations
 #
 ### Silver Light
-![Screenshot](SilverLight/ScreenShot.png)
+![Screenshot](Silver/SilverLight/ScreenShot.png)
 #
 ### Silver Dark
-![Screenshot](SilverDark/ScreenShot.png)
+![Screenshot](Silver/SilverDark/ScreenShot.png)
 # 
 ### Silver Violet
-![Screenshot](SilverViolet/ScreenShot.png)
+![Screenshot](Silver/SilverViolet/ScreenShot.png)
 #
 ### SilverSexy
-![Screenshot](SilverSexy/ScreenShot.png)
+![Screenshot](Silver/SilverSexy/ScreenShot.png)
 #
 ### Black
 #  
