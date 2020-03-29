@@ -24,8 +24,6 @@ This contains 4 variations
 # 
 # Abstrac Steel
 ![Screenshot](Abstract_Steel/ScreenShot.png)
-#
-### Black
 #  
 # Pitch Black 
 3 variations
