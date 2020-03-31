@@ -7,9 +7,6 @@ Into Opencore background folder contains 3 colors variations
 #
 ![Screenshot](Opencore/screenshot.png)
 # 
-# Flowers
-![Screenshot](Flowers/ScreenShot.png)
-# 
 # Silver
 This contains 4 variations
 #
