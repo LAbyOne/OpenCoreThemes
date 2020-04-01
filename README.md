@@ -3,7 +3,6 @@
 My personal Theme for OC
 # 
 # Opencore
-Into Opencore background folder contains 3 colors variations
 #
 ![Screenshot](Opencore/ScreenShot.png)
 # 
