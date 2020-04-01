@@ -3,7 +3,6 @@
 My personal Theme for OC
 # 
 # Opencore
-#
 ![Screenshot](Opencore/ScreenShot.png)
 # 
 # Silver
