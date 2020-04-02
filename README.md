@@ -24,8 +24,21 @@ This contains 4 variations
 ![Screenshot](Abstract_Steel/ScreenShot.png)
 # 
 # Cushion
-![Screenshot](Cushion/ScreenShot.png)
-#  
+This contains 3 variations
+#
+### Cushion Orange
+![Screenshot](Cushion/Cushion_Orange/ScreenShot.png)
+# 
+for all 3 Themes you have a few alternate icons to replace if you like better, as shown in pic
+![Screenshot](Cushion/Cushion_Orange/ScreenShot_2.png)
+there are a few more (this is just for demo)
+# 
+### Cushion Bluey
+![Screenshot](Cushion/Cushion_Bluey/ScreenShot.png)
+# 
+### Cushion Gray
+![Screenshot](Cushion/Cushion_Gray/ScreenShot.png)
+# 
 # Pitch Black 
 3 variations
 # 
