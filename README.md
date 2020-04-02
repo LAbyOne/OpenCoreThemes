@@ -29,7 +29,7 @@ This contains 3 variations
 ### Cushion Orange
 ![Screenshot](Cushion/Cushion_Orange/ScreenShot.png)
 # 
-for all 3 Themes you have a few alternate icons to replace if you like better, as shown in pic
+for all 3 Themes you have a few alternate icons and fonts to replace if you like better, as shown in pic
 ![Screenshot](Cushion/Cushion_Orange/ScreenShot_2.png)
 there are a few more (this is just for demo)
 # 
