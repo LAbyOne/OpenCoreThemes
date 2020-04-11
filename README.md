@@ -1,6 +1,6 @@
 # OpenCoreThemes
 
-My personal Theme for OC
+My personal Themes for OC
 # 
 # Opencore
 #
@@ -95,5 +95,5 @@ you should edit your NdkBootpicker.c and NdkBootpicker.h or if using ndk branch 
 inserting your choice into case OcBootXXXX (XXXX matching the menu you need to edit)
 # 
 ### Direct Themes Download
-[Here](https://github.com/HelmoHass/OpenCoreThemes/releases/)
+[Here](https://github.com/LAbyOne/OpenCoreThemes/releases/)
 # 
